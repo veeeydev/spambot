@@ -9,7 +9,7 @@ Kopiuje tekst wpisany do textboxa, wkleja go i klika enter
 
 <h3> 1.3 </h3> 
 Poprawiono blad zwiazany z intervalem <br>
-Zmniejszono okno aplikacji
+Delikatnie zmieniono  UI
 
 
 
