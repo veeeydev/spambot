@@ -1,5 +1,5 @@
 <h1> SPAMBOT </h1>
-<p> 1.2 </p>
+<p> 1.3 </p>
 <hr>
 <h2> Jak dziala? </h2>
 
