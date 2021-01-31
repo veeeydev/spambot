@@ -7,8 +7,9 @@ Kopiuje tekst wpisany do textboxa, wkleja go i klika enter
 <hr>
 <h2> Changelog </h2>
 
-<h3> 1.2 </h3> 
-Calkowicie zmieniono UI
+<h3> 1.3 </h3> 
+Poprawiono blad zwiazany z intervalem <br>
+Zmniejszono okno aplikacji
 
 
 
